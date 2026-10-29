@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+*.exe
+*.o
+
+# Code::Blocks local files
+*.depend
+*.layout
+
+# Data files created when the program runs
+*.txt
